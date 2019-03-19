@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto Mono';
+}
+
+#header.jumbotron {
+  background-color: #6CA299;
+  color: #0D5146;
+}
+
+#content.jumbotron {
+  background-color: #404040;
+  color: #FF8B00;
+  text-align: center;
+}
+
+#content.jumbotron span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+#content.jumbotron h1 {
+  margin: 0px;
+}
+
+#clock-container {
+  height: 60px;
+}
