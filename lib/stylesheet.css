@@ -2,6 +2,12 @@ body {
   font-family: 'Roboto Mono';
 }
 
+table {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 #header.jumbotron {
   background-color: #6CA299;
   color: #0D5146;
@@ -21,8 +27,4 @@ body {
 
 #content.jumbotron h1 {
   margin: 0px;
-}
-
-#clock-container {
-  height: 60px;
 }
