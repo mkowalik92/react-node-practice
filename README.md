@@ -1,4 +1,4 @@
-### React/Node Practice Project
+## React/Node Practice Project
 ----
 ##### https://github.com/vlucas/universal-react-helloworld
 ----
